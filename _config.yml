@@ -1,1 +1,13 @@
-theme: jekyll-theme-slate
+# config
+logo: /images/logo.png
+menu:
+  home: ' '
+  articles: articles
+  author: author
+
+# Content
+excerpt_link: Read more
+
+# Miscellaneous
+#rss: /atom.xml
+google_analytics:
